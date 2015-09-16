@@ -1,13 +1,3 @@
-#+TITLE: 文始真經 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-09-12 01:20:15.816481
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      SBCK|【四部叢刊】  |
- |       WYG|【四部全書・文淵閣】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0048_000.txt][文始真經 0]]
- - [[file:KR5c0048_001.txt][文始真經 1]]
- - [[file:KR5c0048_002.txt][文始真經 2]]
- - [[file:KR5c0048_003.txt][文始真經 3]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
