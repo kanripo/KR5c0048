@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 無上妙道文始真經
+#+DATE: 2015-09-12 01:20:15
+#+PROPERTY: BASEEDITION SBCK
+#+PROPERTY: WITNESS HFL
+#+PROPERTY: JUAN 0
+
+號
